@@ -21,7 +21,7 @@ Este repositorio documenta la resolución del **Challenge 1** del programa *Data
 
 ## 🛠️ Herramientas y tecnologías utilizadas
 
-- Python 3
+- Python 
 - Google Colab
 - Pandas
 - NumPy
@@ -37,4 +37,11 @@ Para explorar el análisis localmente, puedes clonar el repositorio y abrir el a
 
 ```bash
 git clone https://github.com/wdmarinh96/-challenge1-data-science-latam.git
+
+📌 Consideraciones
+Este proyecto forma parte de un entorno educativo y tiene como finalidad reforzar habilidades clave en ciencia de datos, incluyendo análisis exploratorio, visualización, storytelling con datos y buenas prácticas de documentación.
+
+📫 Contacto
+Si deseas conocer más sobre este proyecto o colaborar en futuros desarrollos, no dudes en contactarme a través de GitHub.
+
 
